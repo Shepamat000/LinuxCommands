@@ -1,0 +1,3 @@
+Hello, this is a test
+This file should show up when using ./myls testFiles and 
+give you some stats when you use ./mywc
